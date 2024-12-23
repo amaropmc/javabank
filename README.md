@@ -3,7 +3,8 @@
 A simulated banking system built with Java 💸
 
 ## Preview
-
+![image](https://github.com/user-attachments/assets/92df1044-8b02-4b3f-bd04-e7e5b10e450a)
+![image](https://github.com/user-attachments/assets/decd62a6-047b-4f02-8dc6-af3334799985)
 
 
 ## Description
@@ -18,8 +19,11 @@ There's still some work to be done, and these are some features I would like to 
   <li>Authentication and roles (admins and clients)</li>
 </ol>
 
-## Technologies used
+## Technologies and tools used
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,postman,html,css&theme=light)](https://skillicons.dev)
 
+Also,
+This project uses **Thymeleaf** template engine.
 
 ## How to deploy
 1. Clone the repository
@@ -43,3 +47,8 @@ mvn tomcat7:deploy
 ```
 
 6. Open local host to view the project in your browser.
+
+
+## Contributions
+Feel free to fork my repository and submit any pull request with changes you may find useful.
+This is an ongoing project for a display of skills, so any suggestion is more than welcome!
