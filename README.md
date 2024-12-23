@@ -22,7 +22,8 @@ There's still some work to be done, and these are some features I would like to 
 ## Technologies and tools used
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,postman,html,css&theme=light)](https://skillicons.dev)
 
-Also,
+Also...
+
 This project uses **Thymeleaf** template engine.
 
 ## How to deploy
