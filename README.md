@@ -8,8 +8,8 @@ A simulated banking system built with Java 💸
 
 
 ## Description
-This project was ame during the course of the last 7 weeks at Code for All_ while learning Java. It simulates a banking account system, implementing features such as transfers, deposits to and withdrawls from a banking account.
-The goal was to learn not only the programming language itself, but also learn good code practices, as well as some of Java's popular libraries and frameworks such as Spring, Thymeleaf, JPA and Hibernate.
+This project was made during the course of the last 7 weeks at Code for All_ while learning Java. It simulates a banking account system, implementing features such as transfers, deposits to and withdrawls from a banking account.
+The goal was not only to learn the programming language itself (Java), but also to learn good coding practices, as well as some of Java's popular libraries and frameworks such as Spring, Thymeleaf, JPA and Hibernate.
 The app also provides REST API endpoints so a more complex and interactive frontend client can be built and fully integrated with this project.
 
 There's still some work to be done, and these are some features I would like to add in the future:
